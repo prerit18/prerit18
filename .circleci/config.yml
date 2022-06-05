@@ -22,6 +22,11 @@ jobs:
       - run: echo world
       - run: echo $MY_ENV_VAR
       - print_pipeline_id
+      - run: exit 1
+      - run:
+          name: on error
+          command: echo "Hello Error!"
+          when: on_fail
 workflows:
   # Name the workflow "welcome"
   welcome:
