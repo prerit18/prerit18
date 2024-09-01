@@ -18,10 +18,7 @@ jobs:
       - run: echo $CODE
 workflows:
   # Name the workflow "welcome"
-  welcome:
-    # Run the welcome/run job in its own container. THis is a test, need to push this..
     jobs:
-      - welcome/run
       - print_hello
       - print_world:
           requires:
