@@ -17,6 +17,7 @@ jobs:
     steps:
       - run: echo $CODE
 workflows:
+    welcome:
   # Name the workflow "welcome1"
     jobs:
       - print_hello
