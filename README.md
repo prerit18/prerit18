@@ -16,9 +16,9 @@ I lead a team of **25 engineers** across Data Engineering, ML/AI, API and DevOps
 
 ---
 
-## 🔭 What I'm Working On at NatWest
+## What I'm Working On at NatWest
 
-### 🤖 AURA — Agentic Understanding for Risks and Anomalies
+### AURA — Agentic Understanding for Risks and Anomalies
 NatWest's **first Agentic AI usecase in Fraud Analytics** — a multi-agent system that gives Fraud Operations analysts deeper, AI-powered customer insights during fraud investigations.
 - **Transaction Analyst Agent** → retrieves and analyses customer transaction history
 - **Case Analyst Agent** → retrieves case history and risk signals
@@ -26,13 +26,13 @@ NatWest's **first Agentic AI usecase in Fraud Analytics** — a multi-agent syst
 - Built on **AWS Strands Framework**, **Claude Sonnet LLM**, **AWS Agent Core** and **Opik** for LLM observability
 - Human-in-the-loop governance throughout — AI augments, analysts decide
 
-### 📦 Fraud Data Products & Data Marketplace
+### Fraud Data Products & Data Marketplace
 Technical lead for NatWest's **Fraud Data Product Factory** — transforming Fraud Data Hub into governed, reusable data products published to the **AWS SMUS Data Marketplace**.
 - Designing data products aligned to **Data Mesh** principles: domain ownership, self-serve discoverability, federated governance
 - Defining KDEs, DTMs, data quality controls and SLAs
 - Fraud Cases Data Product = first fraud domain product live on the enterprise Data Marketplace
 
-### 🔗 Fraud OIDS — Fraud Data Fabric Operational Layer
+### Fraud OIDS — Fraud Data Fabric Operational Layer
 The **Fraud Data Fabric** operational layer — a NoSQL (MongoDB) insight store that makes fraud intelligence flow in real time into bank-wide customer journeys (onboarding, telephony, payments, exit).
 - REST microservices (Java Springboot) expose fraud intelligence to m-platform and AWS Connect
 - Also serves as the **persistence layer for AURA** — storing AI-generated customer summaries
@@ -77,7 +77,7 @@ Real-time AI system profiling inbound transactions to identify mule accounts at 
 
 ---
 
-## 🚀 Personal Projects
+## Personal Projects
 
 | Project | Description | Tech |
 |---|---|---|
@@ -88,15 +88,15 @@ Real-time AI system profiling inbound transactions to identify mule accounts at 
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-- 🤖 **AI Coder: Vibe Coder to Agentic Engineer in 3 Weeks** — Udemy (April 2026)
-- ☁️ **AWS Cloud Machine Learning Engineer Nanodegree** — Udacity (2023)
-- ⚙️ **AWS Cloud DevOps Engineer Nanodegree** — Udacity (2022)
+- **AI Coder: Vibe Coder to Agentic Engineer in 3 Weeks** — Udemy (April 2026)
+- **AWS Cloud Machine Learning Engineer Nanodegree** — Udacity (2023)
+- **AWS Cloud DevOps Engineer Nanodegree** — Udacity (2022)
 
 ---
 
-## 🎓 Education
+## Education
 
 - **Post Graduate Diploma in Data Science (PGDDS)** — IIIT Bangalore
 - **Bachelor of Engineering (B.E.)** — B.M.S. College of Engineering, Bangalore
