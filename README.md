@@ -73,6 +73,8 @@ I'm passionate about compressing **idea-to-market time**, strong engineering pri
 
 I'm always happy to connect and discuss **Agentic AI, LLM engineering, Data Mesh, DataOps and Data Engineering at scale**. Whether you're building something interesting, exploring ideas or just want to talk engineering — feel free to reach out on [LinkedIn](https://www.linkedin.com/in/prerit-mehrotra).
 
+Or feel free to connect with my Agentic AI twin :-) https://huggingface.co/spaces/prerit18/prerit_ai_chatbox
+
 ---
 
 *Principal Engineer | Agentic AI | Fraud Analytics | Data Engineering | NatWest Group*
