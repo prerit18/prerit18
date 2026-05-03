@@ -1,48 +1,22 @@
-# Hi, I'm Prerit Mehrotra 👋
+# Hi, I'm Prerit Mehrotra
 
 **Principal Engineer — Fraud Analytics & AI Engineering | Economic Crime Hub, NatWest Group**
 
-📍 United Kingdom &nbsp;|&nbsp; 📞 +44 7776 842755 &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-prerit--mehrotra-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/prerit-mehrotra)
+United Kingdom &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-prerit--mehrotra-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/prerit-mehrotra)
 
 ---
 
 ## About Me
 
-Principal Engineer within NatWest's Economic Crime Hub, responsible for building the integrated data and AI engineering ecosystem that powers the bank's fraud analytics and defence capabilities — securing the full customer banking journey from onboarding and telephony through to payments and exit.
+Principal Engineer with 16 years of experience building data, ML and AI engineering systems at scale in regulated financial services. I lead a team of **25 engineers** across Data Engineering, ML/AI, API and DevOps — delivering platforms that are reusable, strategically aligned and economically viable.
 
-I lay down strong engineering principles and system design thinking — delivering platforms that are **reusable, strategically aligned and economically viable**, with consistently strong DORA metrics and low deployment frequency. My core strength is compressing **idea-to-market time**: from regulatory signal to production-grade AI in as little as 9 months.
+My current focus is **Agentic AI, Fraud Analytics, Data Mesh and Data Fabric** — building the next generation of intelligent, real-time data systems.
 
-I lead a team of **25 engineers** across Data Engineering, ML/AI, API and DevOps — and I guide Product Owners and Business stakeholders to unlock the real power of data and modern engineering, embedding the right guardrails into every solution.
-
----
-
-## What I'm Working On at NatWest
-
-### AURA — Agentic Understanding for Risks and Anomalies
-NatWest's **first Agentic AI usecase in Fraud Analytics** — a multi-agent system that gives Fraud Operations analysts deeper, AI-powered customer insights during fraud investigations.
-- **Transaction Analyst Agent** → retrieves and analyses customer transaction history
-- **Case Analyst Agent** → retrieves case history and risk signals
-- **Summariser Agent** → consolidates both into an actionable customer narrative
-- Built on **AWS Strands Framework**, **Claude Sonnet LLM**, **AWS Agent Core** and **Opik** for LLM observability
-- Human-in-the-loop governance throughout — AI augments, analysts decide
-
-### Fraud Data Products & Data Marketplace
-Technical lead for NatWest's **Fraud Data Product Factory** — transforming Fraud Data Hub into governed, reusable data products published to the **AWS SMUS Data Marketplace**.
-- Designing data products aligned to **Data Mesh** principles: domain ownership, self-serve discoverability, federated governance
-- Defining KDEs, DTMs, data quality controls and SLAs
-- Fraud Cases Data Product = first fraud domain product live on the enterprise Data Marketplace
-
-### Fraud OIDS — Fraud Data Fabric Operational Layer
-The **Fraud Data Fabric** operational layer — a NoSQL (MongoDB) insight store that makes fraud intelligence flow in real time into bank-wide customer journeys (onboarding, telephony, payments, exit).
-- REST microservices (Java Springboot) expose fraud intelligence to m-platform and AWS Connect
-- Also serves as the **persistence layer for AURA** — storing AI-generated customer summaries
-
-### ⚡ Beneficiary Profiling X (BenProX)
-Real-time AI system profiling inbound transactions to identify mule accounts at **500–600 TPS** — directly supporting NatWest's PSR compliance and APP fraud defence.
+I'm passionate about compressing **idea-to-market time**, strong engineering principles, and helping teams unlock the real power of data and modern AI.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Agentic AI & LLM**
 ![AWS Strands](https://img.shields.io/badge/AWS_Strands-FF9900?style=flat&logo=amazonaws&logoColor=white)
@@ -60,7 +34,6 @@ Real-time AI system profiling inbound transactions to identify mule accounts at 
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![Streamsets](https://img.shields.io/badge/Streamsets-003366?style=flat)
 
 **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
@@ -90,17 +63,16 @@ Real-time AI system profiling inbound transactions to identify mule accounts at 
 
 ## Certifications
 
-- **AI Coder: Vibe Coder to Agentic Engineer in 3 Weeks** — Udemy (April 2026)
+- **AI Coder: Vibe Coder to Agentic Engineer in 3 Weeks** — Udemy (2026)
 - **AWS Cloud Machine Learning Engineer Nanodegree** — Udacity (2023)
 - **AWS Cloud DevOps Engineer Nanodegree** — Udacity (2022)
 
 ---
 
-## Education
+## 💬 Let's Connect
 
-- **Post Graduate Diploma in Data Science (PGDDS)** — IIIT Bangalore
-- **Bachelor of Engineering (B.E.)** — B.M.S. College of Engineering, Bangalore
+I'm always happy to connect and discuss **Agentic AI, LLM engineering, Data Mesh, DataOps and Data Engineering at scale**. Whether you're building something interesting, exploring ideas or just want to talk engineering — feel free to reach out on [LinkedIn](https://www.linkedin.com/in/prerit-mehrotra).
 
 ---
 
-*Principal Engineer | Fraud Analytics | Economic Crime Hub | NatWest Group*
+*Principal Engineer | Agentic AI | Fraud Analytics | Data Engineering | NatWest Group*
